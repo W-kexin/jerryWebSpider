@@ -7,7 +7,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://10.1.1.174:3306/my_spider?useUnicode=true&characterEncoding=utf-8&autoReconnect=true
     username: root
-    password: 123456
+    password: 
 #log配置
 logging:
   file: jerryWebSpider.log
